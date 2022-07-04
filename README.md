@@ -32,7 +32,7 @@ DoctorCare é uma página institucional no formato One Page, responsiva, para us
 
 ## 🌐 Link
 
-Você pode acessar o site hospedado na internet através [desse link](https://wink07.github.io/nlw-return-doctorcare/).
+Você pode acessar o site hospedado na internet através [desse link](https://sergiowinkelstroter.github.io/nlw-return-doctorcare/).
 
 ## 🔖 Layout
 
